@@ -1,7 +1,7 @@
 This is a new file
 def multiply_class1():
-    a=int(input("Enter a value for a"))
-    b=int(input("Enter a value for b"))
+    a=int(input("Enter a Number for a"))
+    b=int(input("Enter a Number for b"))
     print(a*b)
     
 multiply_class1()
